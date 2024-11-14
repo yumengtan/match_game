@@ -1,6 +1,9 @@
 # A match game made using React
+<<<<<<< HEAD
 
 ![Game overview](public/overview.png)
+=======
+>>>>>>> a138198187108903f437c0207a10091311ac383a
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
